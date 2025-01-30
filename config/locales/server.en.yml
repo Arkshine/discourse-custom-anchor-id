@@ -1,1 +1,3 @@
 en:
+  site_settings:
+    custom_anchor_id_enabled: "Enable the Data Explorer at /admin/plugins/explorer"
